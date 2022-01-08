@@ -1,0 +1,1 @@
+use favicon to build your website icon
